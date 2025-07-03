@@ -30,8 +30,3 @@ I used Python to clean, aggregate, and visualize the data.
 git clone https://github.com/mohammadhassan0433/supply-chain-analysis.git
 
 
-### 📈 Sample Outputs  
-![Revenue Heatmap](images/revenue_heatmap.png)  
-![Units Sold Bar Chart](images/units_sold_chart.png)
-
-
