@@ -3,7 +3,7 @@
 Retail Supply Chain Data Analysis using Python (Pandas, Matplotlib, Seaborn)
 
 ## 📌 Project Overview
-This project explores a retail store's supply chain data (73,100 records) to gain insights on inventory levels, sales, demand forecasting, and seasonality.  
+This project explores a retail store's supply chain data (73,100 records) to gain insights on inventory levels, sales, demand forecasting, and seasonality.
 I used Python to clean, aggregate, and visualize the data.
 
 ## ⚙ Technologies Used
@@ -24,9 +24,7 @@ I used Python to clean, aggregate, and visualize the data.
 - **Seasonality:** Revenue peaks during specific months, suggesting seasonal demand
 - **Revenue patterns:** Clear monthly trends and competitor pricing effects
 
-## 📂 How to Run
-1️⃣ Clone the repo  
+## 🛠 How to Run
+1️⃣ Clone the repo
 ```bash
 git clone https://github.com/mohammadhassan0433/supply-chain-analysis.git
-
-
