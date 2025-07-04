@@ -26,10 +26,10 @@ I used Python to clean, aggregate, and visualize the data.
 
 ## 🛠 How to Run
 1️⃣ Clone the repo
-```bash
+
 git clone https://github.com/mohammadhassan0433/supply-chain-analysis.git
 
 ### 📈 Sample Outputs
 
-![Revenue Heatmap](revenue_heatmap.png)  
-![Units Sold Bar Chart](units_sold_chart.png)
+![Revenue Heatmap](images/revenue_heatmap.png)  
+![Units Sold Bar Chart](images/units_sold_chart.png)
