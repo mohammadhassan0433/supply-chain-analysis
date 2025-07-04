@@ -31,8 +31,6 @@ git clone https://github.com/mohammadhassan0433/supply-chain-analysis.git
 
 ### 📈 Sample Outputs
 
-![Revenue Heatmap](images/revenue_heatmap.png)  
-![Units Sold Bar Chart](images/units_sold_chart.png)
 ![revenue_heatmap](https://github.com/user-attachments/assets/5e128bd2-25e4-461f-94e8-01931dc2e1f0)
 ![units_sold_chart](https://github.com/user-attachments/assets/52477d65-ff2e-44f7-8311-0cb83d0ca17e)
 
